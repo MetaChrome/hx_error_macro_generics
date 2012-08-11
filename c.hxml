@@ -1,0 +1,4 @@
+-cp src
+-main bar2.Main
+#-swf p.swf
+-neko p.n
